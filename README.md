@@ -18,4 +18,16 @@ The project is designed to be interactive, with the user specifying the file nam
 Features Read File: Displays the content of a specified file to the console. Write File: Writes the content provided by the user to a specified file. If the file doesn’t exist, it is created. Modify File: Appends new content to an existing file, adding the new content on a new line.
 
 OUTPUT OF THE TASK:
+
+Write File
 ![write](https://github.com/user-attachments/assets/b6028bf9-892b-4cb4-97fb-56e4a8425876)
+
+Read File
+![Read](https://github.com/user-attachments/assets/727158d4-9614-4b1d-8391-92617b3b104e)
+
+Modify File
+![modify](https://github.com/user-attachments/assets/b5289e89-6e9d-4410-ac96-fad48ef89569)
+
+
+
+
